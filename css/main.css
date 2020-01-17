@@ -1,0 +1,152 @@
+
+.header{
+    background-image: linear-gradient(90deg, rgba(20, 2, 2,0.5),rgba(0, 0,2,0.777)),url(../images/big-11.jpg);
+    height: 100vh;
+    background-size: cover;
+    color: white;
+}
+a{
+    color: white !important;
+}
+.wlcm-msg{
+    /* align-content: center; */
+    padding-top: 150px;
+    /* align-self: center; */
+   /* margin-left: 210px; */
+}
+.bus{
+    font-size: 28px;
+    font-weight: bolder;
+}
+.job{
+    font-weight: bolder;
+    font-size: 30px;
+    letter-spacing: 15px;
+}
+.lorem{
+    padding: 15px 0px;
+}
+button{
+    border-radius: 5px;
+    border: none;
+    background-color: rgb(54, 54, 194);
+    color: white;
+    padding: 20px 30px; 
+}
+.header2{
+    background-color: white;
+    color: black;
+}
+.first{
+    margin-top: 150px;
+}
+/* .the{
+font-weight: lighter;
+font-size: 1.5rem;
+color: gray;
+word-spacing: 5px;
+letter-spacing: 5px;
+}
+.brand{
+    font-weight: bolder;
+    color: rgb(134, 130, 130);
+    font-size: 2.5rem;
+}
+.view{
+    font-size: 1.5rem;
+    color: gray;
+} */
+.line{
+    color: blue;
+    list-style-type: none;
+    padding: 5px 0px;
+}
+.but{
+    width: 250px;
+    height: 60px;
+    margin: 50px 0px;
+    border: 2px solid #c1c5cd;
+    background-color: white;
+    color: #c1c5cd;
+    font-weight: bold;
+}
+.but:hover{
+    background-color: #c1c5cd;
+    color: white;
+}
+.option{
+    color: blue;
+}
+.header3{
+    background-image:linear-gradient(90deg, rgba(20, 2, 2,0.5),rgba(0, 0,2,0.777)), url(../images/big-12.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    color: white;
+}
+.btn-secondary{
+    background-color: #c1c5cd !important;
+}
+.header4{
+    background-color: white;
+    height: 50vh;
+    text-align: center;
+    /* margin: 150px 0px;  */
+    /* padding: 20px 0px; */
+}
+.third{
+    padding: 30px 0px;
+}
+.btn-primary{
+    background-color: #c1c5cd !important;
+    border: none;
+    color: black;
+    font-weight: bolder;
+    padding: 15px 8px;
+}
+.btn-primary:hover{
+    background-color: black !important;
+    color: white;
+}
+.concept{
+    background-color: black !important;
+    color: white;
+}
+.header5{
+    background-color: #212121;
+    /* height: 100vh; */
+    padding-top: 40px;
+    /* padding: 150px 0px; */
+    color: #c1c5cd;
+}
+.email{
+    background-color: #212121;
+    border: 2px solid #c1c5cd;
+    width: 200px;
+    padding: 10px 5px;
+}
+.email{
+    margin-right: 10px;
+    color: #c1c5cd;
+}
+.fa-paper-plane{
+    margin-left: 10.5rem;
+}
+.fa-facebook-f:hover{
+    color: rgb(61, 61, 197) !important;
+}
+.fa-twitter:hover{
+    color: skyblue !important;
+}
+.fa-google-plus:hover{
+    color: rgb(173, 33, 33) !important;
+}
+.fa-pinterest:hover{
+    color: red !important;
+}
+.fa-dribbble:hover{
+    color: rgb(231, 62, 155) !important;
+} 
+.header6{
+    background-color:  #212121;
+    color: #c1c5cd;
+}
